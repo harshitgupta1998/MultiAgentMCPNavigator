@@ -1,10 +1,6 @@
-# MCP Navigator 2.0
+# MCP Navigator
 
-A production-style multi-agent orchestration system built with CrewAI and the Model Context Protocol (MCP). Demonstrates role-based agent collaboration, LLM-as-judge evaluation, and enterprise-grade tool integration patterns.
-
-## 🚀 What's New in v2.0
-
-**v2.0** is a complete architectural rebuild focused on **production patterns over demos**:
+A multi-agent orchestration system built with CrewAI and the Model Context Protocol (MCP). Demonstrates role-based agent collaboration, LLM-as-judge evaluation, and enterprise-grade tool integration patterns.
 
 - **Multi-Agent Architecture**: Role-based CrewAI agents (Task Planner, Action Executor) with strict JSON schemas
 - **LLM-as-Judge Evaluation**: Every execution auto-scored on success, plan quality, and reasoning
