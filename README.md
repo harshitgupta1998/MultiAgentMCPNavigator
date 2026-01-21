@@ -225,19 +225,3 @@ python orchestrai/cli.py
 - **No streaming UI**: CLI shows final results only (batch mode)
 - **Single-user only**: No auth, rate limiting, or multi-tenancy
 tes deployment guide for production scale
-
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
-## 🤝 Contributing
-
-Contributions welcome! Focus areas:
-- **New MCP integrations**: Slack, Calendar, Database tools
-- **Evaluation improvements**: Add precision/recall metrics for search quality
-- **Performance optimization**: Reduce cold-start latency (<10s target)
-- **Documentation**: Production deployment guides
-
-***
-
-Made with ❤️ by Deep Mehta
