@@ -208,12 +208,6 @@ python orchestrai/cli.py
 > metrics
 ```
 
-### Adding New MCP Servers
-1. Add server to `servers/browser_mcp.json`
-2. Update `TOOL SELECTION RULES` in `workflow.py` planner prompt
-3. Add parameter extraction logic to `execute_plan_tools()` if needed
-4. Test tool routing with sample queries
-
 ## 🐛 Known Limitations
 
 - **Notes server removed**: Inconsistent parameter contracts caused failures (pragmatic cut)
